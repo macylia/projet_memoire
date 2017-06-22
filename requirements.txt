@@ -1,0 +1,4 @@
+XlsxWriter==0.9.6
+openpyxl==2.4.8
+xlrd==1.0.0
+xlwt==1.2.0
